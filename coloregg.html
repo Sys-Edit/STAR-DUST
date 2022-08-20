@@ -1,6 +1,8 @@
 <!DOCTYPE html>
 <html>
+  <title>ColorEgg</title>
   <head>
-    <iFrame src="http://www.star-dust.ga/coloregg.html/" frameborder="0" scrolling="yes" width="100%" height="100%" id="content_iframe"></iFrame>
+    <script type="text/javascript" src="javascript/AdaptiveIFrame.js"></script>
+    <iFrame src="http://www.star-dust.ga/coloregg.html/" width="100%" height="100%" id="content_iframe" onLoad="window.setInterval("reinitIframe()", 200);"></iFrame>
   </head>
 </html>
