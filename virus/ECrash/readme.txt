@@ -5,4 +5,4 @@ Because bilibili for viral video not approval,
 We had a profound reflection,
 Decided to ban to download the file.
 Has banned to download the file.
-Author:  Sys - Edit , <<self to view>>
+Authors:  Sys-Edit , Author87668
